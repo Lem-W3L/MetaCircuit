@@ -1,0 +1,2 @@
+git add .
+git commit -m "Add Tokenomics Model and Initial Smart Contract Implementation for W3L"
